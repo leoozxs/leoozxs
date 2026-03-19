@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋 Sou Leonardo
 
-<!--
-**leoozxs/leoozxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas (TDS) - Senac NH  
+💼 Jovem Aprendiz em TI - Estância Velha  
+🌱 Aprendendo: Java, Python, JavaScript, SQL, Git, GitHub    
+📫 Contato: leo.valenca21@gmail.com
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Curso técnico em TDS no Senac Novo Hamburgo.
+- Experiência prática como Jovem Aprendiz na área de TI (suporte, infraestrutura, automação).
+- Foco em desenvolvimento de software, lógica e boas práticas.
+- Curioso e dedicado a resolver problemas com código.
+
+## Competências
+
+- Linguagens: Python básico
+- Metodologias: SCRUM, Kanban (estudos)
+
+
+## Objetivo
+
+Conquistar vaga de estagiário/desenvolvedor júnior e continuar a aprender boas práticas (Testes, Clean Code, Cloud).
+
+---
+
+🛠️ Sempre aberto a colaborar em projetos open source e trocar conhecimento com outros devs.
