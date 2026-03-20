@@ -12,6 +12,10 @@
 - Foco em desenvolvimento de software, lógica e boas práticas.
 - Curioso e dedicado a resolver problemas com código.
 
+## Competências
+
+- Metodologias: SCRUM, Kanban (estudos)
+
 ## Objetivo
 
 Conquistar vaga de estagiário/desenvolvedor júnior e continuar a aprender boas práticas (Testes, Clean Code, Cloud).
