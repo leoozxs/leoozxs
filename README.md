@@ -1,8 +1,8 @@
 # Olá! 👋 Sou Leonardo
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas (TDS) - Senac NH  
-💼 Jovem Aprendiz em TI - Estância Velha  
-🌱 Aprendendo: Java, Python, JavaScript, SQL, Git, GitHub    
+💼 Suporte de TI - SETA S.A - Estância Velha  
+🌱 Aprendendo: Python, SQL, Git, GitHub    
 📫 Contato: leo.valenca21@gmail.com
 
 ## Sobre mim
